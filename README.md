@@ -11,7 +11,8 @@ Oh shit. Not much here yet.
 
 ## Music 
 
-![350](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
+<a href="{https://www.youtube.com/results?search_query=nights+frank+ocean}" title="Nights"><img src="{http://directlyrics.com/img/upload/frank-ocean-blonde-album.jpg}" alt="Alternate Text" /></a>
+
 
 
 ## Current working directory
