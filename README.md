@@ -9,9 +9,11 @@ Oh shit. Not much here yet.
 
 <a href="https://www.youtube.com/channel/UCiHuMOTRPCCVe6s1jKoTYDA">My Youtube</a>
 
+<!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
 
 
 ## Current working directory
