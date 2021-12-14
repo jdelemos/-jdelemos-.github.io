@@ -1,5 +1,11 @@
 # **Jons Space**
 
+<style>
+      body {
+        background-color: #1c87c9;
+      }
+
+
 <img src="me.jpg.png" alt="Nintendo">
 
 **Projects** : https://github.com/jdelemos/-jdelemos-.github.io
