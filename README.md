@@ -8,6 +8,6 @@
 Oh shit. Not much here yet. 
 
 
-## Options
+## Current working directory
 
-24 hour website challenge. Go. 
+Let's build some stuff. 
