@@ -11,8 +11,9 @@ Oh shit. Not much here yet.
 
 ## Music 
 
-<a href="https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen">Nights</a>
-
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ## Current working directory
 
