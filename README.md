@@ -5,10 +5,9 @@
 **Projects** : https://github.com/jdelemos/-jdelemos-.github.io
 ## Contents
 
-- [Installation](#installation)
-- [Options](#options)
+Oh shit. Not much here yet. 
 
 
 ## Options
 
-
+24 hour website challenge. Go. 
