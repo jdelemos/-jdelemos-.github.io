@@ -9,7 +9,7 @@ Oh shit. Not much here yet.
 
 <a href="https://www.youtube.com/channel/UCiHuMOTRPCCVe6s1jKoTYDA">My Youtube</a>
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![FRANK OCEAN](http://www.digitalmusicnews.com/wp-content/uploads/2016/08/foceanblondecover.jpg)](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
 
 ## Current working directory
 
