@@ -9,8 +9,10 @@ Oh shit. Not much here yet.
 
 <a href="https://www.youtube.com/channel/UCiHuMOTRPCCVe6s1jKoTYDA">My Youtube</a>
 
-# Music 
-<embed src="frankocean.mp3" autostart="true" loop="false">  
+## Music 
+
+![300](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
+
 
 ## Current working directory
 
