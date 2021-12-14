@@ -1,6 +1,6 @@
 # **Jons Space**
 
-![alt text](screenshot.png "Screenshoot")
+
 
 **Projects** : https://github.com/jdelemos/-jdelemos-.github.io
 ## Contents
