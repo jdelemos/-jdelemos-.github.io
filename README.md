@@ -7,7 +7,7 @@
 
 Oh shit. Not much here yet. 
 
-<a href="https://www.youtube.com/channel/UCiHuMOTRPCCVe6s1jKoTYDA">My Youtube</a>
+<a href="https://www.youtube.com/playlist?list=LL">My Youtube Likes</a>
 
 [![FRANK OCEAN](http://www.digitalmusicnews.com/wp-content/uploads/2016/08/foceanblondecover.jpg)](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
 
