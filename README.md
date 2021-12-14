@@ -11,7 +11,7 @@ Oh shit. Not much here yet.
 
 ## Music 
 
-![300](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
+![350](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
 
 
 ## Current working directory
