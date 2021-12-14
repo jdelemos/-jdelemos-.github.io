@@ -9,7 +9,7 @@ Oh shit. Not much here yet.
 
 <a href="https://www.youtube.com/playlist?list=LL">My Youtube Likes</a>
 
-## Latest Music 
+## Music
 
 [![FRANK OCEAN](http://www.digitalmusicnews.com/wp-content/uploads/2016/08/foceanblondecover.jpg)](https://www.youtube.com/watch?v=vI8cDhfSiNE&ab_channel=EmilioIrigoyen)
 
