@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Connect to MongoDB Cloud Database
-mongoose.connect('YOUR_MONGODB_CONNECTION_STRING', {
+mongoose.connect(mongodb+srv://jonmichaeldelemos:go22HHane5J8xFWE@cluster0.stcij7x.mongodb.net/, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
