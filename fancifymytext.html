@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun with JavaScript</title>
+    <script src="fancifymytext.js" defer></script>
+    <style>
+        fieldset {
+            border: 2px solid black;
+            padding: 10px;
+            margin: 10px 0;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Fun with JavaScript</h2>
+
+    <!-- Text Input Field -->
+    <fieldset>
+        <legend>Text</legend>
+        <textarea id="textInput" rows="4" cols="30"></textarea>
+    </fieldset>
+
+    <!-- Fancify Controls -->
+    <fieldset>
+        <legend>Fancify</legend>
+        <button onclick="makeTextBigger()">Bigger!</button>
+        <br><br>
+        <input type="radio" id="fancy" name="style" onchange="applyStyle()" />
+        <label for="fancy">FancyShmancy</label>
+        <input type="radio" id="boring" name="style" onchange="applyStyle()" />
+        <label for="boring">BoringBetty</label>
+    </fieldset>
+
+    <!-- Moo Button -->
+    <button onclick="mooifyText()">Moo</button>
+
+</body>
+</html>
